@@ -75,7 +75,7 @@ My goal is to build reliable backend solutions that are secure, high-performing,
 
 </td><td valign="top" width="50%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xirokyshin&show_icons=true&theme=transparent&hide_border=true&layout=compact"align="left")](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xirokyshin&show_icons=true&theme=transparent&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </td></tr></table>  
 
