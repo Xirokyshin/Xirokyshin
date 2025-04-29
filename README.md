@@ -93,5 +93,4 @@ My goal is to build reliable backend solutions that are secure, high-performing,
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
