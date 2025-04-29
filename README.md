@@ -73,7 +73,7 @@ My goal is to build reliable backend solutions that are secure, high-performing,
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xirokyshin&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-</td><td valign="top" width="70%">
+</td><td valign="top" width="50%">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xirokyshin&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
