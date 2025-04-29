@@ -71,7 +71,7 @@ My goal is to build reliable backend solutions that are secure, high-performing,
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xirokyshin)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xirokyshin&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 </td><td valign="top" width="50%">
 
